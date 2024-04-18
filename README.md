@@ -1,1 +1,2 @@
 # odin-recipie
+this is a basic recipie website built to showcase my proficiency in html. It simply shows all of the knowledge and skills I have been able to aquire so far in the introductory course of the odin project.
